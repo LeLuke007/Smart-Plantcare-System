@@ -1,4 +1,4 @@
-# 🌱 Smart PlantCare IoT-Based System
+# 🌱 IoT-Based Smart Plantcare System
 
 An IoT-based system for automated plant care, featuring real-time monitoring, disease detection and remote control with an interactive web dashboard
 
