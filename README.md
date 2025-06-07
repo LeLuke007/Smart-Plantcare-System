@@ -5,12 +5,12 @@ An IoT-based system for automated plant care, featuring real-time monitoring, di
 
 ## Table of Contents
 
-- [🚀 Features](#features)
-- [🛠️ Hardware Used](#️hardware-used)
-- [🖼️ Prototype Images](#prototype-images)
-- [🖥️ UI Overview](#ui-overview)
-- [⚡ Setup Instructions](#setup-instructions)
-- [🧠 Disease Detection Model](#disease-detection-model)
+- 🚀 [Features](#features)
+- 🛠️ [Hardware Used](#️hardware-used)
+- 🖼️ [Prototype Images](#prototype-images)
+- 🖥️ [UI Overview](#ui-overview)
+- ⚡ [Setup Instructions](#setup-instructions)
+- 🧠 [Disease Detection Model](#disease-detection-model)
 
 
 ## Features
@@ -47,7 +47,7 @@ An IoT-based system for automated plant care, featuring real-time monitoring, di
 
 ## Prototype Images
 <p align="center">
-  <img src="Images/Prototype_1.jpg" alt="Prototype 1" width="402"/>
+  <img src="Images/Prototype_1.jpg" alt="Prototype 1" width="402"/> &nbsp;
   <img src="Images/Prototype_2.jpg" alt="Prototype 2" width="400"/>
 </p>
 
@@ -123,6 +123,7 @@ The plant disease detection model was trained using a deep learning approach wit
   - **Validation Accuracy:** 92.6%
   - **Validation Loss:** 0.2250
 
+  <br>
   <div align="center">
    <table>
    <tr>
