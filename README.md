@@ -47,7 +47,7 @@ An IoT-based system for automated plant care, featuring real-time monitoring, di
 
 ## Prototype Images
 <p align="center">
-  <img src="Images/Prototype_1.jpg" alt="Prototype 1" width="402"/> &nbsp; &nbsp; &nbsp;
+  <img src="Images/Prototype_1.jpg" alt="Prototype 1" width="402"/>
   <img src="Images/Prototype_2.jpg" alt="Prototype 2" width="400"/>
 </p>
 
